@@ -1,7 +1,0 @@
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Exer2\bin\Debug\Exer2.exe.config
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Exer2\bin\Debug\Exer2.exe
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Exer2\bin\Debug\Exer2.pdb
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Exer2\obj\Debug\Exer2.csproj.AssemblyReference.cache
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Exer2\obj\Debug\Exer2.csproj.CoreCompileInputs.cache
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Exer2\obj\Debug\Exer2.exe
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Exer2\obj\Debug\Exer2.pdb

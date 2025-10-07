@@ -1,7 +1,0 @@
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Ex3\bin\Debug\Ex3.exe.config
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Ex3\bin\Debug\Ex3.exe
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Ex3\bin\Debug\Ex3.pdb
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Ex3\obj\Debug\Ex3.csproj.AssemblyReference.cache
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Ex3\obj\Debug\Ex3.exe
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Ex3\obj\Debug\Ex3.pdb

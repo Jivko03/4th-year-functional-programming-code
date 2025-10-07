@@ -1,7 +1,0 @@
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Ex4.2\bin\Debug\Ex4.2.exe.config
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Ex4.2\bin\Debug\Ex4.2.exe
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Ex4.2\bin\Debug\Ex4.2.pdb
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Ex4.2\obj\Debug\Ex4.2.csproj.AssemblyReference.cache
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Ex4.2\obj\Debug\Ex4.2.csproj.CoreCompileInputs.cache
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Ex4.2\obj\Debug\Ex4.2.exe
-C:\Users\Tamuring\Desktop\Функционално порграмиране лаб\Ex4.2\obj\Debug\Ex4.2.pdb
